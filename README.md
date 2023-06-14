@@ -3,6 +3,9 @@
 SAMPLE PORTFOLIO GALLERY BY JC, <br/>
 A GASTBY AND CLOUDINARY GALLERY PROJECT
 
+<img src="https://res.cloudinary.com/juanajc92/image/upload/v1686757380/readme2_nldgwg.png" />
+<img src="https://res.cloudinary.com/juanajc92/image/upload/v1686757379/readme_gggtve.png" />
+
 ## Get Started
 
 This [tutorial](https://jconline.tech) will help you, and in order to clone this repository, run this command 
