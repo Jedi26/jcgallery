@@ -1,9 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Link } from 'gatsby'
-// import { useCartCount } from "../context/StoreContext"
-// import { Links } from "../components/LinksJSX"
-//import { MdShoppingCart} from 'react-icons/md'
+
 
 const Header = (props) => {
 
@@ -17,12 +15,7 @@ const Header = (props) => {
         <Link to="/" className="logo"><strong>JC PORTFOLIO</strong> </Link>
       
       
-        {/* <cart>
-        <Links url="/cart" isButton>
-          Cart  <MdShoppingCart />
-         <span>{countMarkup} </span> 
-        </Links>
-        </cart> */}
+     
     </header>
     )
 }
