@@ -18,7 +18,7 @@ gatsby new [your-filename] https://github.com/Jedi26/jcgallery
 ## Setup Cloudinary API Keys
 
 Create a [Cloudinary](https://cloudinary.com/) account to gain API keys needed, for .env (environment) files.
-Read and follow this [tutorial](https://jconline.tech) for your reference.
+Read and follow this [tutorial](https://medium.com/@jedalvarezuybentillo/where-to-find-cloudinary-api-keys-for-gatsby-jc-gallery-project-da6e9708454f) for your reference.
 
 ```
 CLOUDINARY_CLOUD_NAME= 
