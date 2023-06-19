@@ -12,7 +12,7 @@ A GASTBY AND CLOUDINARY GALLERY PROJECT
 This [tutorial](https://jconline.tech) will help you, and in order to clone this repository, run this command 
 
 ```
-gatsby new [your-filename] https://github.com/Jedi26/jcgallery.git
+gatsby new [your-filename] https://github.com/Jedi26/jcgallery
 ```
 
 ## Setup Cloudinary API Keys
