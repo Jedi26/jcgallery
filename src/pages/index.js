@@ -44,7 +44,7 @@ class HomeIndex extends React.Component {
                                 </code>
                                 </pre>
                             <h3>How to Setup Cloudinary</h3>
-                            <p> Don't forget to read the whole <a href="/">tutorial</a> here to set your environment variables for your Cloudinary API Keys.</p>
+                            <p> Don't forget to read the whole <a href="https://medium.com/@jedalvarezuybentillo/where-to-find-cloudinary-api-keys-for-gatsby-jc-gallery-project-da6e9708454f">tutorial</a> here to set your environment variables for your Cloudinary API Keys.</p>
                              
                         </div>
                         
