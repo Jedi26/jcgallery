@@ -40,7 +40,7 @@ class HomeIndex extends React.Component {
                             <p> This <a href="https://medium.com/@jedalvarezuybentillo/jc-gallery-guide-488053707373">tutorial</a> will help you and simply copy and paste this command to get the repository </p>
                                 <pre>
                                     <code>
-                                    gatsby new [your-filename] https://github.com/Jedi26/jcgallery.git
+                                    gatsby new [your-filename] https://github.com/Jedi26/jcgallery
                                 </code>
                                 </pre>
                             <h3>How to Setup Cloudinary</h3>
