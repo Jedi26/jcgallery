@@ -9,7 +9,7 @@ A GASTBY AND CLOUDINARY GALLERY PROJECT
 
 ## Get Started
 
-This [tutorial](https://jconline.tech) will help you, and in order to clone this repository, run this command 
+This [tutorial](https://medium.com/@jedalvarezuybentillo/jc-gallery-guide-488053707373) will help you, and in order to clone this repository, run this command 
 
 ```
 gatsby new [your-filename] https://github.com/Jedi26/jcgallery
