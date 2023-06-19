@@ -7,34 +7,12 @@ import { Link } from 'gatsby'
 
 const Header = (props) => {
 
-    // const count = useCartCount()
-
-    // const countMarkup = (
-    //   <span
-    //     sx={{
-    //       display: "inline-block",
-    //       background: "white",
-    //       color: "black",
-    //       height: "20px",
-    //       lineHeight: "20px",
-    //       width: "20px",
-    //       fontSize: "0.8em",
-    //       borderRadius: "10px",
-    //       ml: 2,
-    //       top: "-2px",
-    //       position: "relative",
-    //       textAlign: "center",
-    //     }}
-    //   >
-    //     {count}
-    //   </span>
-    // )
 
     return (
 
     <header id="header" className="alt">
         <nav>
-            <a className="menu-link" onClick={props.onToggleMenu} href="/">Menu</a>
+            <a className="menu-link" onClick={props.onToggleMenu} href="javascript:void(0)">Menu</a>
         </nav>
         <Link to="/" className="logo"><strong>JC PORTFOLIO</strong> </Link>
       
