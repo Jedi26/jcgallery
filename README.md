@@ -3,6 +3,8 @@
 
 SAMPLE PORTFOLIO GALLERY BY JC, A GASTBY AND CLOUDINARY GALLERY PROJECT
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2e21b3be-0051-49d8-a005-e8f7891fea8f/deploy-status)](https://app.netlify.com/sites/jcgallery1/deploys)
+
 <img src="https://res.cloudinary.com/juanajc92/image/upload/v1686757380/readme2_nldgwg.png" />
 <img src="https://res.cloudinary.com/juanajc92/image/upload/v1686757379/readme_gggtve.png" />
 
